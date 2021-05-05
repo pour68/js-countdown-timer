@@ -1,2 +1,1 @@
-# countdown-timer
-design and develop countdown timer by JavaScript.
+Countdown timer application by javascript.

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-family: "Play", sans-serif;
+}
+
+small {
+    font-size: 1rem;
+}
